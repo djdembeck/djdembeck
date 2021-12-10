@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Audnexus API and clients.
-- 🌱 I’m currently learning Typescript and API structure.
-- 👯 I’m looking to collaborate on anything open source!
-- 🤔 I’m looking for help with ideas and QC of my projects' dependencies.
+- 🔭 I’m currently working on AudiobookDB.
+- 🌱 I’m currently learning TS+Next.js+Postgres+Elastic stack.
+- 👯 I’m looking to collaborate on Audiobook projects!
+- 🤔 I’m looking for help with quality control of my projects.
 - 💬 Ask me about audiobooks!
 - 📫 How to reach me: Open a [GHI](https://github.com/djdembeck/djdembeck/issues) in my repo.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm super into yoga and teach a class or two when I'm free!
+- ⚡ Fun fact: I'm super into yoga and teach a few classes!
 
 ![djdembeck's GitHub stats](https://github-readme-stats.vercel.app/api?username=djdembeck&theme=dracula&show_icons=true)
 
