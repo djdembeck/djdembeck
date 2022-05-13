@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on AudiobookDB.
-- 🌱 I’m currently learning TS+Next.js+Postgres+Elastic stack.
+- 🌱 I’m currently learning TS+SvelteKit+Prisma+Meilisearch stack.
 - 👯 I’m looking to collaborate on Audiobook projects!
 - 🤔 I’m looking for help with quality control of my projects.
 - 💬 Ask me about audiobooks!
