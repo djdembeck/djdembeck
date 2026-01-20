@@ -1,35 +1,48 @@
-<h1 align="center">Hello, I'm David Dembeck 👋</h1>
+## Hi, I'm David.
 
-<p align="center">
-  <a href="https://github.com/djdembeck">GitHub</a> •
-  <a href="https://linkedin.com/in/djdembeck">LinkedIn</a>
-</p>
+I'm a software engineer at [Laxamentum Technologies](https://github.com/laxamentumtech). My professional work focuses on backend architecture, data engineering, and infrastructure using **C#**, **TypeScript**, and **Python**.
 
-### About Me
+### Current Focus: AI & Privacy
 
-I'm a passionate software engineer with 2.5 years of experience at Laxamentum Technologies. I've honed my skills in Typescript, C#, Python, and Ruby on Rails. I started my journey in tech with Bash, and I'm constantly seeking innovative solutions to complex problems.
+I am currently exploring the practical applications of open-source LLMs. I am heavily focused on **data privacy** and "local-first" software development. I don't like sending my data to black-box APIs, so I've been building tools that run locally on my own hardware.
 
-In my spare time, I'm not just a developer, but also a dedicated volunteer at SPCA of Texas, where I've achieved the rank of "Orange" in dog handling. I find immense joy in giving back and making a positive impact on the lives of our furry friends.
+I have been spending a significant amount of time using [NanoGPT](https://nano-gpt.com/invite/AkcawQPC) to build and train custom agents locally. It allows me to experiment with AI workflows while maintaining full control over my data. If you are interested in running your own private instances, you can support me by using my referral link [here](https://nano-gpt.com/invite/AkcawQPC).
 
-I also contribute as a volunteer tester at Plex (Plex Ninja), helping test upcoming features and ensure a stable user experience.
+### Homelab & Infrastructure
 
-When I'm not coding or volunteering, you'll find me enjoying quality time with my furry companion, Leah 🐶, and diving into the immersive world of audiobooks 🎧.
+I am a chronic data hoarder. I maintain a homelab stack to handle my storage, media, and personal compute needs. My daily driver is **Ubuntu**, and I avoid SaaS solutions whenever possible in favor of software I can host and control myself.
 
-### My Projects
+### Selected Projects
 
-Here are some of my key projects:
+*   **[Audnexus](https://github.com/laxamentumtech/audnexus)**
+    A high-performance audiobook data aggregation API. It normalizes messy metadata from various sources into a single, consistent JSON endpoint.
+*   **[AudiobookDB](https://audiobookdb.org/)**
+    A user-contributed metadata database built on **SvelteKit**.
+*   **[Bragi Books](https://github.com/djdembeck/bragibooks)**
+    A CLI and GUI utility for cleaning up and managing audiobook libraries.
 
-- [Audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API, combining multiple sources of data into one consistent source.
-- [AudiobookDB](https://audiobookdb.org/) - A user-contributed metadata database for audiobooks, built on SvelteKit.
-- [Bragi Books](https://github.com/djdembeck/bragibooks) - An audiobook library cleanup and management tool.
+### The Stack
 
-Feel free to explore my repositories to see my coding journey unfold.
+*   **Languages:** TypeScript, C#, Python, SQL
+*   **Frameworks:** .NET Core, SvelteKit
+*   **Infrastructure:** Docker, Redis, PostgreSQL, Linux
 
-### Get in Touch
+### Off-Duty
 
-I'm always open to new opportunities and collaborations. If you'd like to connect, feel free to reach out through the email on my profile or connect on [LinkedIn](https://linkedin.com/in/djdembeck).
+*   **Motorcycles:** When the weather is nice, I'm off the computer. I ride a Kawasaki ZX6R and ZX10R.
+*   **Fitness:** I'm a former Yoga Sculpt instructor. I still train hard, but I've traded the mat for the saddle.
+*   **Plex:** I'm technically still a "Plex Ninja," though these days I'm mostly just a power user.
+*   **Life:** Hanging out with my dog, [Leah](https://github.com/djdembeck) 🐶.
 
-Let's innovate and create together! 🚀
+---
+
+**Connect with me**
+
+[LinkedIn](https://linkedin.com/in/djdembeck)
+
+***
+
+### Stats
 
 ![djdembeck's GitHub stats](https://github-readme-stats.vercel.app/api?username=djdembeck&theme=dracula&show_icons=true)
 
