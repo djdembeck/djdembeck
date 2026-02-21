@@ -4,48 +4,21 @@ I'm a software engineer at [Laxamentum Technologies](https://github.com/laxament
 
 ### Current Focus: AI & Privacy
 
-I am currently exploring the practical applications of open-source LLMs. I am heavily focused on **data privacy** and "local-first" software development. I don't like sending my data to black-box APIs, so I've been building tools that run locally on my own hardware.
-
-I have been spending a significant amount of time using [NanoGPT](https://nano-gpt.com/invite/AkcawQPC) to build and train custom agents locally. It allows me to experiment with AI workflows while maintaining full control over my data. If you are interested in running your own private instances, you can support me by using my referral link [here](https://nano-gpt.com/invite/AkcawQPC).
+I build private, local-first AI systems. I'm all about running LLMs on my own hardware—no black-box APIs, no data leaving my network. My current tool of choice is [Synthetic](https://synthetic.new/?referral=B7fAqz37THN23mS), which makes local AI development fast and practical. If you're exploring private AI workflows, give it a try through my referral link.
 
 ### Homelab & Infrastructure
 
-I am a chronic data hoarder. I maintain a homelab stack to handle my storage, media, and personal compute needs. My daily driver is **Ubuntu**, and I avoid SaaS solutions whenever possible in favor of software I can host and control myself.
-
-### Selected Projects
-
-*   **[Audnexus](https://github.com/laxamentumtech/audnexus)**
-    A high-performance audiobook data aggregation API. It normalizes messy metadata from various sources into a single, consistent JSON endpoint.
-*   **[AudiobookDB](https://audiobookdb.org/)**
-    A user-contributed metadata database built on **SvelteKit**.
-*   **[Bragi Books](https://github.com/djdembeck/bragibooks)**
-    A CLI and GUI utility for cleaning up and managing audiobook libraries.
+Chronic data hoarder. I run a homelab for storage, media, and personal compute. **Ubuntu** all the way. I avoid SaaS whenever possible and prefer software I can host and control myself.
 
 ### The Stack
 
-*   **Languages:** TypeScript, C#, Python, SQL
+*   **Languages:** TypeScript, C#, Python, Go, SQL
 *   **Frameworks:** .NET Core, SvelteKit
 *   **Infrastructure:** Docker, Redis, PostgreSQL, Linux
 
 ### Off-Duty
 
-*   **Motorcycles:** When the weather is nice, I'm off the computer. I ride a Kawasaki ZX6R and ZX10R.
-*   **Fitness:** I'm a former Yoga Sculpt instructor. I still train hard, but I've traded the mat for the saddle.
-*   **Plex:** I'm technically still a "Plex Ninja," though these days I'm mostly just a power user.
+*   **Motorcycles:** Nice weather means I'm off the computer. I ride a Kawasaki ZX6R and ZX10R.
+*   **Fitness:** Former Yoga Sculpt instructor. Still train hard, but traded the mat for the saddle.
+*   **Plex:** Technically a "Plex Ninja," now just a power user.
 *   **Life:** Hanging out with my dog, [Leah](https://github.com/djdembeck) 🐶.
-
----
-
-**Connect with me**
-
-[LinkedIn](https://linkedin.com/in/djdembeck)
-
-***
-
-### Stats
-
-![djdembeck's GitHub stats](https://github-readme-stats.vercel.app/api?username=djdembeck&theme=dracula&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djdembeck&exclude_repo=codingdojo&layout=compact&theme=dracula)
-
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=djdembeck&theme=dracula)
