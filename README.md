@@ -21,4 +21,4 @@ Chronic data hoarder. I run a homelab for storage, media, and personal compute. 
 *   **Motorcycles:** Nice weather means I'm off the computer. I ride a Kawasaki ZX6R and ZX10R.
 *   **Fitness:** Former Yoga Sculpt instructor. Still train hard, but traded the mat for the saddle.
 *   **Plex:** Technically a "Plex Ninja," now just a power user.
-*   **Life:** Hanging out with my dog, [Leah](https://github.com/djdembeck) 🐶.
+*   **Life:** Hanging out with my dog, Leah 🐶.
