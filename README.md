@@ -1,6 +1,6 @@
 ## Hi, I'm David.
 
-I'm a software engineer at [Laxamentum Technologies](https://github.com/laxamentumtech). My professional work focuses on backend architecture, data engineering, and infrastructure using **C#**, **TypeScript**, and **Python**.
+I'm a software engineer at [Laxamentum Technologies](https://github.com/laxamentumtech). My professional work focuses on backend architecture, data engineering, and infrastructure using **Go**, **TypeScript**, and **Python**.
 
 ### Current Focus: AI & Privacy
 
@@ -12,7 +12,7 @@ Chronic data hoarder. I run a homelab for storage, media, and personal compute. 
 
 ### The Stack
 
-*   **Languages:** TypeScript, C#, Python, Go, SQL
+*   **Languages:** Go, TypeScript, Python, SQL
 *   **Frameworks:** .NET Core, SvelteKit
 *   **Infrastructure:** Docker, Redis, PostgreSQL, Linux
 
