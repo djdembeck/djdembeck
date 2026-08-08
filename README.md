@@ -61,4 +61,6 @@ If a tool I need doesn't exist, I build it: [annalist](https://github.com/djdemb
 
 ---
 
+I got into software because of bugs other people missed and never fixed. That turned into a stubborn attention to detail: nothing is ever truly perfect, but software should work the way you expect it to. Most of what I build — at Laxamentum or on my own — exists because the tool I needed either didn't exist or didn't meet that bar.
+
 I like hard infrastructure problems, lean systems, and software that respects its users. If you're building something along those lines, I'm always open to a conversation.
