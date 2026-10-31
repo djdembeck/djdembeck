@@ -1,6 +1,6 @@
 ## Hi, I’m David.
 
-I’m a software engineer at [Laxamentum Technologies](https://laxament.tech), building software that fixes the things other people have learned to work around.
+I’m a software engineer at [Laxamentum Technologies](https://laxamentum.tech), building software that fixes the things other people have learned to work around.
 
 ### [AudiobookDB](https://audiobookdb.org)
 
