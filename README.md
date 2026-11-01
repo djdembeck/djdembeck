@@ -4,7 +4,7 @@ I’m a software engineer at [Laxamentum Technologies](https://laxamentum.tech),
 
 ### [AudiobookDB](https://audiobookdb.org)
 
-**A community-maintained catalog for audiobooks, with books and their releases kept distinct.** AudiobookDB is in public beta, with editorial review, a developer API, and room for contributors. I’m building it as a shared home for audiobook metadata that people can help improve.
+I founded and build AudiobookDB, a community-maintained audiobook catalog in public beta. My work spans the data model, API and SvelteKit frontend, including catalog search and tools for contributors to propose additions for editorial review.
 
 ### How I build
 
